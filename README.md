@@ -1,1 +1,1 @@
-# auth_jwt_node
+# authentication and registration with the node.js
